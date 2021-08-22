@@ -1,1 +1,2 @@
-git clone <URL for repository>
+qit clone <URL for repository>
+git diff # provides diff between two files etc
